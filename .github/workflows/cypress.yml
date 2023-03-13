@@ -14,5 +14,4 @@ jobs:
         uses: cypress-io/github-action@v5
         timeout-minutes: 10
         with:
-          wait-on: https://empresas.americanas.com.br/produto/4382343462?chave=dk_hm_mo_4_7_ge&offerId=61ceee34d9fd6edeecde641c
           browser: firefox
